@@ -1,0 +1,17 @@
+.block{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+.btn{
+  margin-top: 1em;
+  align-items: center;
+  justify-self: center;
+  padding: 20px 25px;
+  background: #9c27b0;
+  border: transparent;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 25px;
+  text-transform: uppercase;
+}

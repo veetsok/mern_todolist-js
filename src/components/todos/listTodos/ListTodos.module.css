@@ -1,0 +1,12 @@
+.block{
+  background: #f3e5f5;
+  margin: 2em 0;
+  padding: 2em;
+  box-shadow: 0px 0px 12px -5px #da41bb;
+  border-radius: 9px;
+  color: #202020;
+}
+.title{
+  font-size: 40px;
+  margin-bottom: 40px;
+}

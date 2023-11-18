@@ -1,0 +1,30 @@
+.container {
+  padding: 1em;
+  background: #9c27b0;
+}
+
+.access{
+  margin-right: 2em;
+}
+
+.navbar{
+  max-width: 1168px;
+  margin: 0 auto;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.__btnsBlock{
+  display: flex; 
+  align-items: center;
+ }
+
+.navbar a{
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.btn__block{
+  margin: 0 10px;
+ }

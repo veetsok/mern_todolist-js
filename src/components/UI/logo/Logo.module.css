@@ -1,0 +1,15 @@
+
+.logo__container {
+  color: #fff;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  & svg {
+    fill-rule:evenodd;
+    clip-rule:evenodd;
+    margin-right: 1em;
+    width: 2em;
+    height: 2em;
+    }
+}
+

@@ -1,0 +1,50 @@
+.block{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+
+}
+
+.block fieldset{
+  border-color:#9c27b0 !important;
+}
+
+
+
+.block label{
+  font-size: 30px;
+}
+
+.block label{
+  color: #9c27b0  !important;
+}
+
+
+.input{
+  margin: 10px 20px 5px 0px !important;
+  width: 100% !important;
+ 
+}
+
+
+.block input {
+  height: 2.4375em !important;
+}
+
+.btn{
+  align-items: center;
+  justify-self: center;
+  width: 58px;
+  height: 58px;
+  background: #9c27b0;
+  border: transparent;
+  border-radius: 5px;
+}
+
+.btn svg {
+  border-radius: 10px;
+  fill: #fff;
+  height: 29px;
+  width: 29px;
+}
